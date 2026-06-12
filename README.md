@@ -215,7 +215,7 @@ streamlit run app.py
 
 ## Author
 
-**DS Group 3** — Presidency University, Bengaluru
+Basava Rajeshwari M Hakkandi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rajeshwari-hakkandi)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/rajeshwarihakkandi)
